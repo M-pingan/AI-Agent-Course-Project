@@ -1,3 +1,0 @@
-INFO:     127.0.0.1:61452 - "GET /api/health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:57554 - "POST /api/upload HTTP/1.1" 200 OK
-INFO:     127.0.0.1:57554 - "GET /api/result/bb7fda1f-6dd5-46b6-89fe-97e42bb8a24c HTTP/1.1" 200 OK
